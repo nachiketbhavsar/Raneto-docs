@@ -1,5 +1,11 @@
-$ git clone https://github.com/gilbitron/Raneto.git
-$ cd Raneto/
-[NOW EDIT FILES IN content/]
-$ git add content/
-$ git commit -m "My Changes"
+<b>1.Login</b><br>
+Before being allowed to use the site administration tools, Admin will be asked to login.The login screen for the Admin asks for a username and password.<br><b>To login to the E-Learning Application Admin Portal</b><br>
+1.Enter your Username and Password<br>
+2.Click the Login button to get access to the Admin Portal.<br> 
+If you forget your password, you click the ’forget password?’ link. Follow the on-screen instructions to get an email with a link to reset your password.
+Once you have successfully logged in, you will be greeted by the Dashboard in the Admin Portal.![Login](https://drive.google.com/uc?export=view&id=1m5arrcfDK_HrjoidsxAr2VBaTLaF70yM)
+<b>2.Dashboard</b><br>Dashboard gives you important and relevant information on managing the portal, user activity, content updates, and more. Each section of the new dashboard has been given an updated look and feel, with immediate access to management and reporting functions.<br><b>Dashboard KPIs</b><br>- Paid Users<br>- Free Users<br>- Total Sale<br><b>Dashboard Chart</b><br>- Users chart<br>- Sales chart![Dashboard]( https://drive.google.com/uc?export=view&id=14vwI5T5LUi43L-7ErPw35P4uaul8hYaF)
+<b>3.Add Course</b><br>You can add and manage courses using this section.<br><b>To create the course follow the following steps-</b><br>
+1.Click on the Manage Course Menu<br>
+2.Then click on the Add New Course button<br>3.Fill the required fields<br>
+4.In the Upload Logo section you can select the image which will be displayed on the Course section on the dashboard and the course-subject Page in the mobilw application.<br>5.To do this, click browse button After that you can upload a new image from your computer.<br>6.After filling all the required fields click on the Submit button.![add course]( https://drive.google.com/uc?export=view&id=1HeUXwR6UwOgzWghKBnxp2uTur2Iz-e_W)
